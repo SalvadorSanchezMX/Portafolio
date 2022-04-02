@@ -1,0 +1,27 @@
+body {
+    background-color: #000
+}
+
+a, a:link, a:visited, a:active, a:hove{
+    color: #fff, 0.5
+}
+
+header {
+    background-color: #000;
+    color: #fff;
+}
+
+nav {
+    background-color: #000;
+    color: #fff;
+}
+
+section {
+    background-color: #000;
+    color: #fff;
+}
+
+footer {
+    background-color: #000;
+    color: #fff;
+}
